@@ -1,0 +1,31 @@
+.div_pai {
+    width: 500px;
+    height: 500px;
+    background-color: rgb(248, 189, 79);
+}
+
+.div_D {
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(178, 226, 241);
+}
+
+.div_E {
+    width: 75vw;
+    height: 50%;
+    background-color: rgb(250, 8, 8);
+}
+
+.div_A {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(161, 212, 83);
+}
+
+.div_B {
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
